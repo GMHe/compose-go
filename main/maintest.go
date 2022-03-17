@@ -1,9 +1,9 @@
 package main
 
 import (
-	"compose-go/test1"
-	"compose-go/test2"
 	"fmt"
+	"github.com/GMHe/compose-go/test1"
+	"github.com/GMHe/compose-go/test2"
 )
 
 func main()  {
